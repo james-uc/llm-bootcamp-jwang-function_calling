@@ -5,3 +5,4 @@ langsmith
 serpapi
 google-search-results
 litellm
+pydantic==2.10.1
